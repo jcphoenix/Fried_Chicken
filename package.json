@@ -1,0 +1,20 @@
+{
+  "name": "Fried_Chicken",
+  "version": "1.0.0",
+  "description": "Pour the gravy over the mash",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "surge --domain friedchicken.surge.sh --project ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcphoenix/Fried_Chicken.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcphoenix/Fried_Chicken/issues"
+  },
+  "homepage": "https://github.com/jcphoenix/Fried_Chicken#readme"
+}
